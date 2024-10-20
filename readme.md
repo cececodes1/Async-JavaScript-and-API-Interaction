@@ -20,5 +20,5 @@ Implementing timers using intervals and timeouts in JavaScript.
 ## Getting Started
 
 1. Clone the repository:
-   ```git clone https://github.com/cececodes1/Async-JavaScript-and-API-Interaction.git
+   git clone https://github.com/cececodes1/Async-JavaScript-and-API-Interaction.git
 2. Open the HTML file in your browser to run the application.
